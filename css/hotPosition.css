@@ -1,0 +1,113 @@
+.divA{
+	width: 82rem;
+	border: 1px solid red;
+	height: 50rem;
+	text-align: center;
+}
+.divA>a{
+	font-size: 1.5rem;
+	color: grey;
+	display: inline-block;
+}
+.divB{
+	display: inline-block;
+	width: 70rem;
+	height: 3rem;
+	border:0.5px solid #fbf8f8;
+	background-color: white;
+}
+.divB>ul{
+	padding:0;
+	list-style-type: none;
+	width: 70rem;
+
+}
+.divB li{
+	margin-left: 2rem;
+	display: inline-block;
+	font-size: 1rem;
+	color: grey;
+}
+.divC{
+	width: 70rem;
+	height: 33rem;
+	border: 0.5px solid #fbf8f8;
+	/*display: inline-block;*/
+}
+.defaultDiv{
+	display: inline-block;
+}
+.divC>ul{
+	padding:0;
+	list-style-type: none;
+	width: 70rem;
+}
+.divC li{
+	
+	display: inline-block;
+	font-size: 1rem;
+	color: grey;
+}
+.divD{
+	width: 23rem;
+	height: 10rem;
+	background-color: #f7f1f1;
+	border: 0.5px solid #fbf8f8;
+
+}
+.divD a{
+	display: inline-block;
+	text-decoration: none;
+	color: grey;
+}
+.divD>a:first-child{
+	width: 5rem;
+	height: 5rem;
+
+}
+.divD span{
+	display: inline-block;
+	width: 2px;
+	height: 10px;
+	background-color: white;
+}
+.divE{
+	width: 70rem;
+	height: 3rem;
+	display: inline-block;
+	text-align: center;
+}
+.divE a{
+	font-size: 1rem;
+	display: inline-block;
+	line-height: 3rem;
+	border: 1px solid #54b354;
+	width:10rem;
+	height: 3rem;
+	vertical-align: middle; 
+	text-decoration: none;
+	color: #54b354;
+}
+/*.divF{
+	width: 70rem;
+	height: 33rem;
+	border: 0.5px solid #fbf8f8;
+	display: inline-block;
+}
+.divF>ul{
+	padding:0;
+	list-style-type: none;
+	width: 70rem;
+}
+.divF li{
+	
+	display: inline-block;
+	font-size: 1rem;
+	color: grey;
+}
+
+}*/
+.divF{
+
+	display: none;
+}
